@@ -10,3 +10,8 @@ Example usage:
 - **Dynamic Text Source**: Primarily uses the text in the data folder for generating responses. Replace the text file with any document of your choice to change the chatbot's focus.
 - **GPT-3 Integration**: Leverages OpenAI's GPT-3 for generating responses when the provided text does not contain relevant information.
 - **Contextual and Concise Responses**: Designed to provide direct responses based on the context of the provided text, avoiding verbosity and repetition.
+
+# Skills Demonstrated
+- **Natural Language Processing (NLP)**: Context extraction and text analysis
+- **OpenAI GPT-3 Integration**: API utilization and prompt engineering
+- **Python Programming**: Script development, data manipulation
